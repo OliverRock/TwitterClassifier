@@ -13,4 +13,4 @@ test.csv contains a test data set to evaluate the effectiveness of my program. T
 
 The file test.csv contains a data set to test the accuracy of the program.
 
-For an example run I downloaded 3218 tweets from Barack Obama. I trained the program on 70 000 tweets from the training set. With this, the prrgram had an accuracy of 91% guessing whether a tweet was positive or negative in the test data. Om Barack Obamas tweets the program calculated 2066 to be positive, 1152 to be negative.
+For an example run I downloaded 3218 tweets from Barack Obama. I trained the program on 70 000 tweets from the training set. With this, the prrgram had an accuracy of ~~91%~~ (91% cannot be correct, it is too high, I need to rerun to get a true answer) guessing whether a tweet was positive or negative in the test data. Om Barack Obamas tweets the program calculated 2066 to be positive, 1152 to be negative.
